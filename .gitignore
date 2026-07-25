@@ -4,9 +4,9 @@ gradle/wrapper/gradle-wrapper.jar
 
 # Build directories
 build/
-androidApp/build/
+appStore/build/
 shared/build/
-androidApp/proguard-rules.pro
+appStore/proguard-rules.pro
 
 # IDE
 .idea/
